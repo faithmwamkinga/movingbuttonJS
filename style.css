@@ -1,0 +1,20 @@
+body{
+    background-color: #8a96a5;
+    color: #f5f5f5;
+
+}
+#button {
+    width: 10vw;
+    height: 7vh;
+    background-color: #1C375B;
+    border: none;
+    border-radius: 7px;
+    color: #f5f5f5;
+    font-size: 15px;
+    
+}
+
+#text{
+    text-align: center;
+   
+}
